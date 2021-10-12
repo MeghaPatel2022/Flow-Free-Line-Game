@@ -1,0 +1,26 @@
+{
+  "logs": [
+    {
+      "outputFile": "D:\\Game\\link\\link\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+      "map": [
+        {
+          "source": "D:\\Game\\link\\link\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+          "from": {
+            "startLines": "13,16,12,14,6,7,10,9,8,19,20,21,15,11",
+            "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+            "startOffsets": "470,624,420,520,134,186,333,285,241,719,758,802,572,377",
+            "endColumns": "48,52,48,50,50,53,42,46,42,37,42,53,50,41",
+            "endOffsets": "514,672,464,566,180,235,371,327,279,752,796,851,618,414"
+          },
+          "to": {
+            "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+            "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+            "startOffsets": "55,104,157,206,257,308,362,405,452,495,533,576,630,681",
+            "endColumns": "48,52,48,50,50,53,42,46,42,37,42,53,50,41",
+            "endOffsets": "99,152,201,252,303,357,400,447,490,528,571,625,676,718"
+          }
+        }
+      ]
+    }
+  ]
+}
